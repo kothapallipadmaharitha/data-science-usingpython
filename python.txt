@@ -1,1 +1,22 @@
+*DEFINITION OF PYTHON LANGUAGE
+ >Python is a widely used high-level programming language for general-purpose programming.
+ >created by Guido van Rossum and first released in 1991. 
+ >An interpreted language, Python has a design philosophy that emphasizes code readability (notably          
+  whitespace indentation to delimit code blocks rather than curly brackets or keywords).
+ >And a syntax that allows programmers to express concepts in fewer lines of code than might be used in      languages such as C++ or Java. 
+ >It provides constructs that enable clear programming on both small and large scales.
 
+*FEATURES OF PYTHON LANGUAGE
+ >Python features a dynamic type system and automatic memory management. 
+ >It supports 
+   -multiple programming paradigms, 
+   -including object-oriented, 
+   -imperative, 
+   -functional and    
+   -procedural, and 
+   -has a large and comprehensive standard library.
+
+*ADVANTAGES OF PYTHON LANGUAGE
+ >Python's syntax is easy to learn.
+ >So both non-programmers and programmers can start programming right away. 
+ > Most modern programming languages are object-oriented (such as Java, C++, and C#) or have support for OOP features (such as Perl version 5 and later).
